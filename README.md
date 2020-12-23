@@ -1,5 +1,9 @@
 # WebScraping
 
+[![GitHub top language](https://img.shields.io/github/languages/top/m4lal0/webScraping?logo=python&style=flat-square)](#)
+[![GitHub repo size](https://img.shields.io/github/repo-size/m4lal0/webScraping?logo=webpack&style=flat-square)](#)
+[![By](https://img.shields.io/badge/By-m4lal0-green?style=flat-square&logo=github)](#)
+
 <p align="center">
 ┏┓┏┓┏┓━━━━┏┓━━┏━━━┓━━━━━━━━━━━━━━━━━━━━━━━━━━
 ┃┃┃┃┃┃━━━━┃┃━━┃┏━┓┃━━━━━━━━━━━━━━━━━━━━━━━━━━
